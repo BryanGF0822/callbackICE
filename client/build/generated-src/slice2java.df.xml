@@ -1,0 +1,15 @@
+<state>
+  <timestamp value='1649143832584' />
+  <sourceSet name='default'>
+    <source name='/home/swarch/helloworld/Printer.ice'>
+      <file name='/home/swarch/helloworld/client/build/generated-src/Demo/MyClient.java' />
+      <file name='/home/swarch/helloworld/client/build/generated-src/Demo/MyServer.java' />
+      <file name='/home/swarch/helloworld/client/build/generated-src/Demo/MyClientPrx.java' />
+      <file name='/home/swarch/helloworld/client/build/generated-src/Demo/_MyClientPrxI.java' />
+      <file name='/home/swarch/helloworld/client/build/generated-src/Demo/MyServerPrx.java' />
+      <file name='/home/swarch/helloworld/client/build/generated-src/Demo/_MyServerPrxI.java' />
+    </source>
+    <arg value='/opt/Ice-3.7.6/bin/slice2java' />
+    <arg value='-I/opt/Ice-3.7.6/slice' />
+  </sourceSet>
+</state>

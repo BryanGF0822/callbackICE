@@ -1,0 +1,5 @@
+Server.Proxy=server:tcp -p 9098
+
+Client.Endpoints=default:tcp -p 9087
+
+Ice.Default.Host=localhost

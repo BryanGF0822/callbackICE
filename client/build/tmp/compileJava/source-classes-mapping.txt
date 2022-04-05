@@ -1,0 +1,18 @@
+Demo/MyClient.java
+ Demo.MyClient
+ Demo.MyClient$1
+Demo/MyServer.java
+ Demo.MyServer
+ Demo.MyServer$1
+Demo/_MyServerPrxI.java
+ Demo._MyServerPrxI
+Demo/MyServerPrx.java
+ Demo.MyServerPrx
+Demo/MyClientPrx.java
+ Demo.MyClientPrx
+Demo/_MyClientPrxI.java
+ Demo._MyClientPrxI
+MyClientI.java
+ MyClientI
+Client.java
+ Client
